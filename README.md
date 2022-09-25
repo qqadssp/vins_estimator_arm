@@ -47,9 +47,9 @@ camera基类中增加getFocalLength函数获取焦距，去掉vins-mono代码中
 
 ## 交叉编译器
 
-对于cortex-a53处理器，使用gcc-arm-10.2-2020.11-x86_64-aarch64-none-linux-gnu.tar.xz  
+对于cortex-a53处理器，使用[gcc-arm-10.2-2020.11-x86_64-aarch64-none-linux-gnu.tar.xz](https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu-a/10.2-2020.11/binrel/gcc-arm-10.2-2020.11-x86_64-arm-none-linux-gnueabihf.tar.xz)  
 
-对于cortex-a7，使用gcc-arm-10.2-2020.11-x86_64-arm-none-linux-gnueabihf.tar.xz  
+对于cortex-a7，使用[gcc-arm-10.2-2020.11-x86_64-arm-none-linux-gnueabihf.tar.xz](https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu-a/10.2-2020.11/binrel/gcc-arm-10.2-2020.11-x86_64-aarch64-none-linux-gnu.tar.xz)  
 
 
 ## 第三方库
